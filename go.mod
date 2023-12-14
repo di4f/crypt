@@ -1,4 +1,4 @@
-module github.com/omnipunk/crypt
+module github.com/di4f/crypt
 
 go 1.21.3
 
